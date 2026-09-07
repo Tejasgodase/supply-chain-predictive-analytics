@@ -19,5 +19,6 @@ What I found.
 
 The model could correctly spot high-risk late orders 74% of the time. More importantly, I found three clear, real reasons for the delays that a business could actually act on — like rethinking First-Class shipping routes or planning better for the holiday rush.
 
-Tools I used
+Tools I used.
+
 Python, Pandas, NumPy, SMOTE, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook.
